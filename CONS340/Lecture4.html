@@ -1,0 +1,312 @@
+<!--
+title: Lecture 4
+description: 
+published: true
+date: 2021-10-19T23:57:29.211Z
+tags: 
+editor: ckeditor
+dateCreated: 2021-10-19T23:57:29.211Z
+-->
+
+<p>The Earth is Not Round</p>
+<ul>
+  <li>First the Earth was flat</li>
+  <li>500 BC Pythagoras declared it was a sphere</li>
+  <li>1600's Sir Issac Newton hypothesized that the true shape of the earth was really closer to an ellipse<ul>
+      <li>More precisely, an oblate ellipsoid&nbsp;</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>Eratosthenes</p>
+<ul>
+  <li>Greek Mathematician</li>
+  <li>Lived 276-194 BC</li>
+  <li>Responsible for<ul>
+      <li>Establishing geography</li>
+      <li>First accurate measure of Earth's circumference<ul>
+          <li>Noticed how the Sun shone directly down a well in Syene at noon on the Solstice. Made a second observation at Alexandria with a pole and noticed a shadow. He measured the angle of the Shadow and inferred the circumference of Earth, which was already known to be spherical</li>
+        </ul>
+      </li>
+      <li>Calculating the tilt of Earth's axis</li>
+      <li>Calculating the distance of Earth to the Sun</li>
+      <li>Invention of the leap day</li>
+      <li>First world map of the (spherical) Earth</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Geodesy</p>
+<ul>
+  <li>The science that studies and determines the shape and dimensions of the Earth</li>
+  <li>Different models have been defined to represent Earth's shape, varying in complexity and accuracy.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Geoid</p>
+<ul>
+  <li>Physical approximation of the figure of the Earth</li>
+  <li>Shape of the surface of calmed oceans, in the absence of other influences such as winds and tides</li>
+  <li>Computed using complex physical models and gravity readings of Earth's surface</li>
+  <li>Used to measure surface elevations with a high degree of accuracy</li>
+</ul>
+<p>&nbsp;</p>
+<p>Ellipsoid</p>
+<ul>
+  <li>Mathematical approximation of the shape of the earth</li>
+  <li>The earth is flattened at the poles and bulges at the equator due to its revolution</li>
+  <li>Ellipsoid geodesy is uniquely defined by two numbers: semi-major (wide axis) and semi-minor axis (shorter axis)<ul>
+      <li>A&gt;B</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>Sphere</p>
+<ul>
+  <li>Simplest (and least accurate) approximation of the shape of the Earth</li>
+  <li>Radius is constant</li>
+  <li>a=b</li>
+</ul>
+<p>&nbsp;</p>
+<p>Spheroid is an ellipsoid that approximates the shape of a sphere</p>
+<ul>
+  <li>Earth can be approximated by an oblate ellipsoid, but it's major and minor axes do not vary greatly</li>
+  <li>Shape is so close to a sphere that is it often called a spheroid rather than an ellipsoid</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Why do we need more than one ellipsoid?</p>
+<ul>
+  <li>The Earth's surface is not perfectly symmetrical</li>
+  <li>The semi-major and semi-minor axes that fit one geographical region do not necessarily fit another</li>
+</ul>
+<p>&nbsp;</p>
+<p>Datum</p>
+<ul>
+  <li>A reference ellipsoid for locating points on Earth's surface<ul>
+      <li>Defines origin and orientation of latitude/longitude line</li>
+      <li>Defined by ellipsoid and ellipsoid's position relative to Earth's center</li>
+      <li>Two Types<ul>
+          <li>Earth-centered</li>
+          <li>Local</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Latitude</p>
+<ul>
+  <li>Angle from center Earth that describes the North-South position</li>
+</ul>
+<p>Longitude</p>
+<ul>
+  <li>Angle from center Earth that describes the east-west position</li>
+</ul>
+<p>&nbsp;</p>
+<p>Latitude/longitude</p>
+<ul>
+  <li>Not uniform units of measure</li>
+  <li>Meridians converge near poles</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Prime meridian</p>
+<ul>
+  <li>Arbitrary origin of Longitude lines</li>
+  <li>Usually greenwich, England</li>
+  <li>Others include Paris, Bogota, etc.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Degrees Minutes Seconds (DMS)</p>
+<ul>
+  <li>Degrees of latitude and longitude are further broken down into Minutes and Seconds</li>
+</ul>
+<p>&nbsp;</p>
+<p>Decimal Degrees (DD)</p>
+<ul>
+  <li>Decimal degrees are similar to degree/minutes/seconds (DMS) except that minute and seconds are expressed as decimal values</li>
+  <li>Decimal degrees make digital storage of coordinates easier and computations faster</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Conversion from DMS to DD:</p>
+<ul>
+  <li>Example coordinate is 37 (deg) 36' 30" (dms)</li>
+  <li>Divide each value by the number of minutes or seconds in a degree:<ul>
+      <li>36 minutes = 0.6 degrees (36 /60)</li>
+      <li>30 seconds = 0.0833 degrees (30/3600)</li>
+      <li>Add up the degrees to get the answer</li>
+      <li>37 (deg) + .60 (deg) + 0.0833 (deg) = 37.60833 DD</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Basic Geodesy Facts</p>
+<ul>
+  <li>Great circle - arc formed by the intersection of the earth with a plane passing through any two surface points and the center of the Earth</li>
+  <li>Magnetic directions must take into account the compass variation (magnetic declination)</li>
+  <li>Rhumb line - loxodrome or constant azimuth - line which makes a fixed angle with all meridians; spirals to pole</li>
+</ul>
+<p>&nbsp;</p>
+<p>Geographic Coordinate System</p>
+<ul>
+  <li>The Equator and Prime Meridian are the reference points</li>
+  <li>Latitude / Longitude measure angles<ul>
+      <li>Latitude (parallels) 0 deg - 90 deg</li>
+      <li>Longitude (meridians) 0 deg - 180 deg</li>
+    </ul>
+  </li>
+  <li>Defines locations on 3-D surface</li>
+  <li>Units are degrees (or grads)</li>
+  <li>Not a map projection</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Map projection</p>
+<ul>
+  <li>Curved surface (3D) -&gt; 2D flat surface</li>
+  <li>Approaches to transfer the spherical Earth on a two dimensional plane</li>
+  <li>Some distortions will always occur</li>
+  <li>Visualize a light shine through the Earth onto a surface</li>
+  <li>Distortions<ul>
+      <li>Fitting sphere to plane causes stretching or shrinking of features</li>
+      <li>Types<ul>
+          <li>Shape</li>
+          <li>Area</li>
+          <li>Distance</li>
+          <li>Direction</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>Projection Properties</p>
+<ul>
+  <li>Conformal<ul>
+      <li>Maintains shape</li>
+    </ul>
+  </li>
+  <li>Equal-area<ul>
+      <li>Maintains area</li>
+    </ul>
+  </li>
+  <li>Equidistant<ul>
+      <li>Maintains distance</li>
+    </ul>
+  </li>
+  <li>Azimuthal (Planar)<ul>
+      <li>Maintains some directions</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>How to measure distortion from map projections?</p>
+<ul>
+  <li>Tissot's Indicatrix<ul>
+      <li>Measures and visualize distortions of shape and area at a single location on a projected map relative to a reference globe</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Developable Surfaces</p>
+<ol>
+  <li>Cylindrical projections<ol>
+      <li>The earth is projected on a cylinder</li>
+      <li>Whole-world maps are rectangular</li>
+      <li>Distortion on the poles</li>
+    </ol>
+  </li>
+  <li>Conic projections<ol>
+      <li>The Earth is projected on a cone</li>
+      <li>Good for representing parts of the Earth</li>
+    </ol>
+  </li>
+  <li>Planar projections<ol>
+      <li>The Earth is projected on a plane</li>
+      <li>Lots of distortion towards the edges</li>
+    </ol>
+  </li>
+</ol>
+<p>&nbsp;</p>
+<p>Developable surfaces contacting spheres</p>
+<ul>
+  <li>Tangent<ul>
+      <li>Projection surface touches sphere</li>
+    </ul>
+  </li>
+  <li>Secant<ul>
+      <li>Surface cuts through sphere</li>
+    </ul>
+  </li>
+  <li>No distortion at contact points</li>
+  <li>Increases away from contact points</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Cylindrical projection</p>
+<ul>
+  <li>Longitudes equally spaced</li>
+  <li>Latitudes unequally spaced</li>
+  <li>Scale is true along equator</li>
+  <li>Shape and scale distortions increase near poles</li>
+  <li>Best for equatorial or low latitudes</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Common projections</p>
+<ul>
+  <li>Mercator<ul>
+      <li>Projected on a cylinder</li>
+      <li>Any straight line is a line of constant direction</li>
+      <li>Used for navigation</li>
+      <li>True directions</li>
+      <li>Conformal (angles and shapes true in small areas) but not equal area or equidistant</li>
+      <li>Cylindrical</li>
+    </ul>
+  </li>
+  <li>Universal transverse Mercator<ul>
+      <li>Divides the earth from latitudes 84N to 80S in 60 vertical zones that are 6 deg wide</li>
+      <li>Zones are numbered starting at 180th meridian in eastward direction</li>
+      <li>Each zone is divided into sections of 8 deg latitude each</li>
+      <li>Eastings (from Central meridian) and Northings (from equator) can be designated for each zone</li>
+      <li>UTM preserves area, Distance, and Shape well</li>
+    </ul>
+  </li>
+  <li>Albers equal area<ul>
+      <li>Conic (secant case)</li>
+      <li>Well suited for areas that are mainly east-west in extent</li>
+      <li>Areas - True</li>
+      <li>Drections - Reasonably accurate in limited regions</li>
+      <li>Distances and Scale true only along standard parallels</li>
+      <li>Map - not conformal</li>
+      <li>Used for Thematic maps</li>
+    </ul>
+  </li>
+  <li>Lambert's conformal conic<ul>
+      <li>Conic (Secant case)</li>
+      <li>Distances - True only along standard parallels</li>
+      <li>Map - conformal but not equal area or equidistant</li>
+      <li>Area and Shape - Distortion minimal at std. parallels</li>
+      <li>Directions - Reasonably accurate</li>
+      <li>Shape - True for small areas</li>
+      <li>To map large ocean Areas and regions in E-W extent</li>
+    </ul>
+  </li>
+  <li>Azimuthal equidistant<ul>
+      <li>Extent - World; Eq/mid-lat/Polar</li>
+      <li>Distances measured from centre are true; Distortion of other properties increases from centre point</li>
+      <li>Useful for showing airline distances from centre point</li>
+      <li>Useful for seismic and radio work</li>
+    </ul>
+  </li>
+</ul>
