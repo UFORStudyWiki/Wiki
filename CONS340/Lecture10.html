@@ -1,0 +1,174 @@
+<!--
+title: Lecture 10
+description: 
+published: true
+date: 2021-10-19T23:59:25.146Z
+tags: 
+editor: ckeditor
+dateCreated: 2021-10-19T23:59:25.146Z
+-->
+
+<p>The Basics:</p>
+<ul>
+  <li>An "image" is digital as opposed to a "picture" which you take with an analog camera</li>
+  <li>Images are made up of pixels which is short for "Picture Element"</li>
+  <li>Pixels contain values (numbers)</li>
+  <li>The more pixels etc. the larger the image file size.</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Color spaces:</p>
+<ul>
+  <li>RGB</li>
+  <li>CMY</li>
+  <li>CMYK</li>
+  <li>HSV</li>
+  <li>Grayscale</li>
+  <li>1-bit</li>
+</ul>
+<p>&nbsp;</p>
+<p>Additive vs. subtractive mixing</p>
+<ul>
+  <li>Additive color theory<ul>
+      <li>Acts like light</li>
+    </ul>
+  </li>
+  <li>Subtractive color theory<ul>
+      <li>Acts similar to painting</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>RGB (red-green-blue)</p>
+<ul>
+  <li>Composite of 3 layers / channels (red,green,blue)</li>
+</ul>
+<p>&nbsp;</p>
+<p>Images have dimensions</p>
+<ul>
+  <li>Horizontal and vertical dimensions</li>
+</ul>
+<p>&nbsp;</p>
+<p>Resolution (DPI)</p>
+<ul>
+  <li>DPI = dots per inch</li>
+  <li>The greater the DPI per equivalent areas&nbsp;</li>
+  <li>Average screen resolution is 72 DPI</li>
+  <li>Typical printer resolution is 300 DPI</li>
+</ul>
+<p>&nbsp;</p>
+<p>Spatial resolution</p>
+<ul>
+  <li>When an image refers to something in the "real world" we say it has spatial resolution</li>
+  <li>This refers to the unit of measure in the "real world" that a pixel represents in the image</li>
+  <li>e.g., 30 meter digital elevation models (DEM)</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>What is a remote sensing system</p>
+<ul>
+  <li>Energy source</li>
+  <li>Platform</li>
+  <li>Sensor</li>
+  <li>Data recording / transmission</li>
+  <li>Ground receiving station</li>
+  <li>Data processing</li>
+  <li>Expert interpretation / data users</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Types of platforms:</p>
+<ul>
+  <li>Airborne (like planes)</li>
+  <li>Satellites<ul>
+      <li>Conducted from the space shuttle or more commonly, from satellites</li>
+      <li>Most are at near polar orbit (200 - 1000 km altitude)</li>
+      <li>Allows the same spot to be mapped over time</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Active sensor:</p>
+<ul>
+  <li>Beams energy and detects the reflection</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Spatial data resolution problem</p>
+<ul>
+  <li>Trade-off pixel size vs. spatial coverage</li>
+  <li>Quantization and data volume</li>
+  <li>Data merge from different sources</li>
+  <li>Grid dislacement in time</li>
+  <li>Information content of different resolutions</li>
+  <li>Raster-vector conversion</li>
+</ul>
+<p>&nbsp;</p>
+<p>Geometric registration</p>
+<ul>
+  <li>Where does an image belong on the globe?</li>
+  <li>Before this step, data is just expensive pictures</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Simple IP techniques</p>
+<ul>
+  <li>These techniques are accomplished by applying mathematical algorithms to individual pixel values</li>
+  <li>e.g. Brightness simply adds a constant value to each pixel</li>
+  <li>Convolution filters<ul>
+      <li>A matrix of multipliers that is applied to each pixel as its moved across the image</li>
+      <li>They are typically moed from left to right as you would read a book</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>Image interpretation</p>
+<ul>
+  <li>Interpretation: data -&gt; information</li>
+  <li>Visual interpretation: uses visual methods to interpret analog data (maps)</li>
+  <li>Digital interpretation: uses computer-based methods to interpret digital data</li>
+</ul>
+<p>&nbsp;</p>
+<p>Image enhancement</p>
+<ul>
+  <li>Usually done to more effectively display or record the data for subsequent visual interpretation<ul>
+      <li>Contrast stretching</li>
+      <li>Filtering</li>
+      <li>Edge detection</li>
+    </ul>
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>Image transformation</p>
+<ul>
+  <li>Arithmetic operations done to combine and transform the original bands into "new" images which better display or highlight certain features</li>
+</ul>
+<p>&nbsp;</p>
+<p>Image classification</p>
+<ul>
+  <li>To categorize all pixels in an image into land cover classes or themes</li>
+  <li>Multi-spectral data are used to perform classification</li>
+  <li>Spectral patterns present within data used as numerical basis for categorization</li>
+</ul>
+<p>&nbsp;</p>
+<p>Integrating remotely sensed data with GIS</p>
+<ul>
+  <li>What GIS has to offer remote sensing:<ul>
+      <li>Control points</li>
+      <li>Themes</li>
+      <li>Training Sites</li>
+    </ul>
+  </li>
+  <li>What remote sensing has to offer GIS<ul>
+      <li>Rapid updates</li>
+      <li>Changes detection</li>
+      <li>Vegetation indices</li>
+    </ul>
+  </li>
+  <li>What the future may hold:<ul>
+      <li>Fully integrated systems</li>
+      <li>Transparent data integration</li>
+    </ul>
+  </li>
+</ul>
