@@ -2,7 +2,7 @@
 title: Pruning
 description: 
 published: true
-date: 2021-10-31T03:45:32.823Z
+date: 2021-10-31T03:51:27.986Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T19:19:03.628Z
@@ -52,7 +52,7 @@ Pruning mainly focuses on cytokinins and ethelyne
 
 
 # Three Pruning Methods/Cuts
-- **Heading cuts** involve trimming a branch back to a bud. This removes the shoot apical meristem and subsequently the auxin hormone signals that suppress lateral growth. So basically, heading stimulates lateral growth by removing its barriers. **Pollarding** is a type of heading where branches are cut back annually to the same spot on the tree, re-invigorating lateral growth every year. It should be noted however that once you start pollarding a tree, it will require annual commitment. Missing a year of pollarding can potentially result in the development of poor structure (by creating co-dominant stems). Also, heading a branch that is already too large can result in a large wound that can remain for life. The wounded area can become a point of structural weakness, especially if latent bud growth (which is generally not well-attached to the stem) occurs around it. Heading cuts are most effective on one-two year old branches to either remove a competing leader or create hedges.
+- **Heading cuts** involve trimming a branch back to a bud. This removes the shoot apical meristem and subsequently the auxin hormone signals that suppress lateral growth. So basically, heading stimulates lateral growth by removing its barriers. Heading cuts are most effective on one-two year old branches to either remove a competing leader or create hedges. Pollarding is a type of heading where branches are cut back annually to the same spot on the tree, re-invigorating lateral growth every year. 
 - **Thinning cuts** are the most frequently used cuts in tree pruning. It involves trimming a branch to another/parent limb, giving that latter branch the terminal role. It is important that the to-be-terminal branch must be 1/3 of the diameter of the to-be-removed branch. It is also crucial to not damage the root collar when making thinning cuts.
 - **Bending** is technically not a cut. However, it is still a crucial part of redirecting plant/branch growth. It involves tying or stabilizing a flexible branch or shoot horizontally or vertically, altering the auxin gradient of the branch and forcing the branch to produce more ethylene, which not only reduces vegetative growth but also fuels flower & fruit production. Bending is a topic of interest for urban foresters when it comes to creating food forests. 
 
