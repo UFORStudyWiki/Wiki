@@ -2,7 +2,7 @@
 title: Pruning
 description: 
 published: true
-date: 2021-10-31T04:39:22.088Z
+date: 2021-11-07T21:02:33.993Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-29T19:19:03.628Z
@@ -56,8 +56,8 @@ Pruning mainly focuses on cytokinins and ethelyne
 - ***Thinning cuts*** are the most frequently used cuts in tree pruning. It involves trimming a branch to another/parent limb, giving that latter branch the terminal role. It is important that the to-be-terminal branch must be 1/3 of the diameter of the to-be-removed branch. It is also crucial to not damage the root collar when making thinning cuts.
 - ***Bending*** is technically not a cut. However, it is still a crucial part of redirecting plant/branch growth. It involves tying or stabilizing a flexible branch or shoot horizontally or vertically, altering the auxin gradient of the branch and forcing the branch to produce more ethylene, which not only reduces vegetative growth but also fuels flower & fruit production. Bending is a topic of interest for urban foresters when it comes to creating food forests. 
 # How to Prune Right: The 3-Cut Method
-Belive it or not, there is a right and wrong way to prune a branch.
-
+Belive it or not, there is a right and wrong way to prune a branch. The right way is called the 3-Cut Method, and the basic idea is shown below:
+![3-cut.png](/ufor300/3-cut.png)
 
 # Summary
 - If you can't clearly explain to someone else why a tree should be pruned or why a particular plant part should be removed, you should not be pruning
