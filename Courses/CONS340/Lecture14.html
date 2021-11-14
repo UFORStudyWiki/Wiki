@@ -2,7 +2,7 @@
 title: Lecture 14 GPS
 description: 
 published: true
-date: 2021-11-14T00:07:23.844Z
+date: 2021-11-14T02:12:24.963Z
 tags: 
 editor: ckeditor
 dateCreated: 2021-11-14T00:07:23.844Z
@@ -15,13 +15,35 @@ dateCreated: 2021-11-14T00:07:23.844Z
 <h2>Components</h2>
 <p><strong>Space Segment - satellites</strong></p>
 <ul>
-  <li>GPS uses 24 satellites (3 of them are extras and are not active) that complete their orbit every 12 hours. Their orbits are situated so that on any point on the Earth's surface there are always 5 to 8 satellites above the horizon.</li>
+  <li>GPS uses 24 satellites (3 of them are extras and are not active) that complete their orbit every 12 hours. Their orbits are situated so that at any point on the Earth's surface there are always 5 to 8 satellites above the horizon.</li>
 </ul>
 <p><strong>Control Segment - ground stations</strong></p>
-<p>We have a total of 5 ground-based control stations</p>
+<ul>
+  <li>We have a total of 5 ground-based control stations. The main one is the Falcon AFB Colorado Springs These ground stations control the satellites and “talk" to them.</li>
+</ul>
 <p><strong>User Segment - receivers</strong></p>
-<p>This component is often where the human in the GPS comes in. GPS receivers and other users who compute velocity, time, and position using the satellite signals. The resulting information is often used for navigational purposes.</p>
+<ul>
+  <li>This component is referred to as the “user”. often where we receive the information sent from the satellites. GPS receivers and other users who compute velocity, time, and position using the satellite signals. The resulting information is often used for navigational purposes.</li>
+</ul>
+<h3>So How Does It Work?</h3>
+<p>GPS is a ranging system that does triangulation. Because it is triangulating, it requires reference systems in the form of satellites that move at 4 km/s.&nbsp;</p>
+<ol>
+  <li>The user (receiver) listens and detects 1-way signals from several satellites. Each transmission is a coded signal containing information along with the time-of-transmission and the satellite position. Signals are usually sent continuously (it is always sending something).</li>
+  <li>The user compares the time-of-arrival of the signal and the time-of-transmission.</li>
+  <li>The difference in time (delta T) is multiplied by the speed of light to obtain the range (or distance).</li>
+  <li>Every range from a satellite in space puts us in a sphere around the satellite of a certain radius. This radius is the range. Intersecting several of these spheres allows the user to determine its position. Accuracy can be increased by increasing the number of satellites, and subsequently increasing the number of spheres.</li>
+</ol>
+<ul class="todo-list">
+  <li><label class="todo-list__label"><input type="checkbox" disabled="disabled"><span class="todo-list__label__description">Three satellites place us at one of two potential location points. To fix a three-dimensional location using satellites, we need 4 satellites to eliminate one of the points.</span></label></li>
+</ul>
+<h3>Note on Distance Measuring</h3>
+<p><strong>Distance = Rate x Time.&nbsp;</strong></p>
+<p><strong>Rate</strong> is the speed of light (186,000 miles/second). <strong>Time</strong> is the time it takes for a signal to travel from the satellite to the GPS receiver.</p>
+<p><mark class="marker-yellow">Remember:</mark> the entire system is dependent on Time!</p>
+<p>Measuring time on a satellite is done by SV clocks. There are 2 cesium and 2 rubidium clocks in each satellite ($100,000-$500,000 each lol!)</p>
+<p>Measuring time at the GPS receiver does not need cesium or rubidium clocks. Receiver clocks are similar to a quartz watch. There are always errors between the satellite and receiver clocks, and that is Delta T! This is another reason why 4 satellites are ideal: they are required to solve x, y, z, and Delta T.</p>
 <h2>Signals</h2>
+<p>&nbsp;</p>
 <h2>Triangulation</h2>
 <h1>GPS Errors</h1>
 <h1>GPS and GIS</h1>
