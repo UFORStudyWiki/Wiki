@@ -2,7 +2,7 @@
 title: Lecture 14 GPS
 description: 
 published: true
-date: 2021-11-14T02:12:24.963Z
+date: 2021-11-14T05:31:49.868Z
 tags: 
 editor: ckeditor
 dateCreated: 2021-11-14T00:07:23.844Z
@@ -25,7 +25,7 @@ dateCreated: 2021-11-14T00:07:23.844Z
 <ul>
   <li>This component is referred to as the “user”. often where we receive the information sent from the satellites. GPS receivers and other users who compute velocity, time, and position using the satellite signals. The resulting information is often used for navigational purposes.</li>
 </ul>
-<h3>So How Does It Work?</h3>
+<h3>So How Does It Work? Triangulation!</h3>
 <p>GPS is a ranging system that does triangulation. Because it is triangulating, it requires reference systems in the form of satellites that move at 4 km/s.&nbsp;</p>
 <ol>
   <li>The user (receiver) listens and detects 1-way signals from several satellites. Each transmission is a coded signal containing information along with the time-of-transmission and the satellite position. Signals are usually sent continuously (it is always sending something).</li>
@@ -43,7 +43,15 @@ dateCreated: 2021-11-14T00:07:23.844Z
 <p>Measuring time on a satellite is done by SV clocks. There are 2 cesium and 2 rubidium clocks in each satellite ($100,000-$500,000 each lol!)</p>
 <p>Measuring time at the GPS receiver does not need cesium or rubidium clocks. Receiver clocks are similar to a quartz watch. There are always errors between the satellite and receiver clocks, and that is Delta T! This is another reason why 4 satellites are ideal: they are required to solve x, y, z, and Delta T.</p>
 <h2>Signals</h2>
-<p>&nbsp;</p>
-<h2>Triangulation</h2>
+<p>Usually, two L-band carriers are used to broadcast GPS signals in a Carrier Phase GPS.</p>
+<ul>
+  <li>L1 uses 1575.42 MHz and is modulated using both C/A-code and P-Code. It contains navigational messages and SPS code signals</li>
+  <li>L2 on the other hand uses&nbsp;1227.6 MHz, and only the P-Code is used to modulate it. While unsophisticated satellites track only L1 using simple correction models, both L1 and L2 are required to filter out ionospheric delay by calculating the difference between the carriers (L1-L2).&nbsp;</li>
+</ul>
+<p>Different from Carrier Phase GPS, Code Phase GPS primarily bases itself on C/A codes.</p>
+<h4>The C/A Code</h4>
+<p>C/A stands for coarse acquisition. A C/A code is a series of 1 MHz pseudo random noise (PRN) codes - series of binary numbers - that repeats itself every 1 millisecond.&nbsp;</p>
+<h4>The Almanac</h4>
+<p>The almanac is a collection of additional information broadcasted by a satellite about all the other satellites. When the receiver system is powered up, the almanac provides initial information the user can use to see where the other satellites are currently located. And because satellites are in a fixed orbit and are thus their locations are easily predictable, an almanac can be valid for months. However, despite sacrificing some accuracy in the presented format, an almanac is still a large file that can take several minutes (up to 12.5 minutes) to complete its transfer.</p>
 <h1>GPS Errors</h1>
 <h1>GPS and GIS</h1>
