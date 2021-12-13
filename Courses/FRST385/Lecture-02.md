@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T23:16:09.334Z
+date: 2021-12-13T23:30:12.560Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -103,5 +103,18 @@ Precipitation (496 km3/y) == evaporation (496 km3/y)
 * Stream
 * Ocean
 * Atmospheric Water
+
+
+# Water balance equation
+P + G~in~ - (Q + ET + G~out~) = ΔS
+
+P = precipitation
+G~in~ = groundwater
+Q = stream outflow
+ET = evapotranspiration
+G~out~ = groundwater out
+S = storage
+
+**All in depth* [e.g., mm] or volume [e.g. m^3^]* 
 
 
