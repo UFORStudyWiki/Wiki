@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T23:30:12.560Z
+date: 2021-12-13T23:31:29.307Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -107,6 +107,8 @@ Precipitation (496 km3/y) == evaporation (496 km3/y)
 
 # Water balance equation
 P + G~in~ - (Q + ET + G~out~) = ΔS
+Q = P - ET ± ΔS (simplified)
+Q = P - ET (Ultra-simplified)
 
 P = precipitation
 G~in~ = groundwater
