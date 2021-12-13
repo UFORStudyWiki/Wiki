@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T23:14:53.967Z
+date: 2021-12-13T23:16:09.334Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -82,6 +82,7 @@ Strahler: Starts at 1, when two 1's join together, it becomes 2. When two 2's co
 
 
 # Hydrologic cycle
+Precipitation (496 km3/y) == evaporation (496 km3/y)
 ## Processes
 * Precipitation
 * Evaporation
@@ -102,3 +103,5 @@ Strahler: Starts at 1, when two 1's join together, it becomes 2. When two 2's co
 * Stream
 * Ocean
 * Atmospheric Water
+
+
