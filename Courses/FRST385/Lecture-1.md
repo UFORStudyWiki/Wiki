@@ -2,7 +2,7 @@
 title: Lecture 01: Introduction
 description: 
 published: true
-date: 2021-12-13T19:35:39.527Z
+date: 2021-12-13T19:40:07.774Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T19:07:08.671Z
@@ -69,3 +69,11 @@ Chemical
  * Regional conflicts
  * International conflicts
  * Military weapon and target
+ 
+ 
+ 
+ # Global water resources & current issue
+ * Fresh water: 410 km diameter
+ * Groundwater, rivers, lakes: 249 km diameter
+ * Accessible surface freshwater: 96 km diameter
+ * Global water use for annual food production: 23 km diameter
