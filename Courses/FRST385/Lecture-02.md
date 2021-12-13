@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T23:05:19.785Z
+date: 2021-12-13T23:08:29.760Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -75,3 +75,5 @@ Strahler: Starts at 1, when two 1's join together, it becomes 2. When two 2's co
 * Sediment load
 * Water availability
 * Ecosystems and habitats
+
+
