@@ -2,7 +2,7 @@
 title: Lecture 01: Introduction
 description: 
 published: true
-date: 2021-12-13T19:28:07.357Z
+date: 2021-12-13T19:30:11.343Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T19:07:08.671Z
@@ -39,3 +39,15 @@ People don't want trees as they "will consume all the water", people do not want
 * Recovering aquifer storages
 * Facing the challenges of increasing population
 * Integrating different scales
+* Larger scale understanding
+
+# Functions of water
+Biological
+* Physiology
+* Habitat
+* Hydrotherapy
+
+Chemical
+* Solvent
+* Medium
+
