@@ -2,7 +2,7 @@
 title: Lecture 01: Introduction
 description: 
 published: true
-date: 2021-12-13T19:30:11.343Z
+date: 2021-12-13T19:32:17.091Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T19:07:08.671Z
@@ -51,3 +51,17 @@ Chemical
 * Solvent
 * Medium
 
+ Physical
+ * Moderator of climate (water vapour causes 90% of greenhouse affect)
+ * Agent of destruction
+ * Energy and power
+ * Standard for measurement (1 L water = 1 kg, 1 cal = heat required to raise 1 g of liquid water 1 C, freezing (0 C), boiling (100 C)
+ * Medium of transport
+ 
+ Socioeconomic
+ * Recreation
+ * Inspiration for creativity
+ * Agriculture
+ * Tools for industry
+ 
+ Political
