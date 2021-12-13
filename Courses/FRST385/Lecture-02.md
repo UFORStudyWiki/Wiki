@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T23:09:15.548Z
+date: 2021-12-13T23:14:53.967Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -82,3 +82,23 @@ Strahler: Starts at 1, when two 1's join together, it becomes 2. When two 2's co
 
 
 # Hydrologic cycle
+## Processes
+* Precipitation
+* Evaporation
+* Evapotranspiration
+* Melt runoff
+* Submlimation
+* Percolation
+* Groundwater flow
+* Streamflow
+* Infiltration
+* Overland flow
+* Condensation
+## Storage
+* Groundwater
+* Snow & Glaciers
+* Lake
+* Vegetation
+* Stream
+* Ocean
+* Atmospheric Water
