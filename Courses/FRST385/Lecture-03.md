@@ -2,7 +2,7 @@
 title: Energy & Mass Balance
 description: 
 published: true
-date: 2021-12-13T23:48:59.719Z
+date: 2021-12-13T23:57:12.797Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T23:48:59.719Z
@@ -15,3 +15,17 @@ dateCreated: 2021-12-13T23:48:59.719Z
 4. Illustrate the direction (positive/negative) and relative magnitude of local energy exchanges during various seasons and at night/day.
 5. Explain how the presence or absence of vegetation affects the local energy balance and each of its energy components.
 6. Define with your own words, and put into context, all the terms in the glossary.
+
+# Electromagnetic radiation
+* Kinetic energy: Due to motion of an object
+* Chemical energy: As in gasoline, oil, coal, natural gas
+* Nuclear energy: As in nuclear reactor fuel
+* Radiant energy: As in sunlight
+* Heat energy: As in hot water, molten metal
+* Electircal energy: As in a light bulb, electric motor
+
+
+## Radiant energy
+Most things are powered via the sun.
+
+Can travel via vaccuum.
