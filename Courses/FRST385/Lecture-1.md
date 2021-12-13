@@ -2,7 +2,7 @@
 title: Lecture 01: Introduction
 description: 
 published: true
-date: 2021-12-13T19:18:21.399Z
+date: 2021-12-13T19:20:32.480Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T19:07:08.671Z
@@ -17,6 +17,7 @@ dateCreated: 2021-12-13T19:07:08.671Z
 2. Define and differentiate Forest Hydrology from the broader study of Hydrology
 - Forest hydrology studies the effects of vegetation and land management on water quantity and quality, erosion, and sedimentation.
 3. List at least three practical applications of Hydrology
+- Knowledge of the behavior of water (or hydrology) is essential to silviculturists, ecologists, range managements 
 4. Explain and provide examples of the five functions of water
 5. List at least five current global water resources issues.
 
@@ -24,3 +25,10 @@ dateCreated: 2021-12-13T19:07:08.671Z
 # The Planting - Harvesting paradox
 People don't want trees as they "will consume all the water", people do not want the trees harvested as it "protects the water resources"
 
+# Broad functions of hydrology
+* Resolve issues of water quantity and quality
+* Study interrelations between water and the environment
+* Assess the impact of human activity on the occurrence, circulation and distribution of water.
+* Make predictions of water-related events and problems
+* Adjust, manage, and operate water and water resources to benefit society.
+* Prevent destruction
