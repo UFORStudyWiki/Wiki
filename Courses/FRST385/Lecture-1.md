@@ -2,7 +2,7 @@
 title: Lecture 01: Introduction
 description: 
 published: true
-date: 2021-12-13T19:20:32.480Z
+date: 2021-12-13T19:27:15.395Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T19:07:08.671Z
@@ -32,3 +32,6 @@ People don't want trees as they "will consume all the water", people do not want
 * Make predictions of water-related events and problems
 * Adjust, manage, and operate water and water resources to benefit society.
 * Prevent destruction
+
+# The Future
+* Real-time monitoring
