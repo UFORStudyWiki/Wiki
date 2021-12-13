@@ -2,7 +2,7 @@
 title: Lecture 01: Introduction
 description: 
 published: true
-date: 2021-12-13T19:40:07.774Z
+date: 2021-12-13T19:43:47.889Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T19:07:08.671Z
@@ -77,3 +77,8 @@ Chemical
  * Groundwater, rivers, lakes: 249 km diameter
  * Accessible surface freshwater: 96 km diameter
  * Global water use for annual food production: 23 km diameter
+ 
+ 
+**Water withdrawal:** water that is mostly  circulated back to the body from which it was taken.
+
+**Water consumption:** water withdrawn and not returned to its original source.
