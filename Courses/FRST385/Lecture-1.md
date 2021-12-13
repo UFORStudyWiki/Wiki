@@ -2,7 +2,7 @@
 title: Lecture 01: Introduction
 description: 
 published: true
-date: 2021-12-13T19:07:08.671Z
+date: 2021-12-13T19:13:18.436Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T19:07:08.671Z
@@ -10,8 +10,16 @@ dateCreated: 2021-12-13T19:07:08.671Z
 
 # Learning Objectives
 1. Define Hydrology as a discipline within the Earth Sciences.
+- "The geoscience that describes and predicts the occurence, circulation, and distribution of the water of the earth and its atmosphere, with two principal focuses: the global hydrological cycle (distribution and spatial & temporal variations of water substance in the terrestrial, oceanic, and atmospheric compartments of the global water system) and the land phase of the hydrologic cycle (movement of water substance on and under the earth's land surfaces, the physical and chemical interactions with earth materials accompanying that movement, and the biological processes that conduct or affect that movement." (Dingman, 2002)
+
+- "An earth science that encompasses the occurence, distribution, movement, and properties of the waters of the earth" (Viessmann & Lewis, 1996
+
 2. Define and differentiate Forest Hydrology from the broader study of Hydrology
 3. List at least three practical applications of Hydrology
 4. Explain and provide examples of the five functions of water
 5. List at least five current global water resources issues.
+
+
+# The Planting - Harvesting paradox
+People don't want trees as they "will consume all the water", people do not want the trees harvested as it "protects the water resources"
 
