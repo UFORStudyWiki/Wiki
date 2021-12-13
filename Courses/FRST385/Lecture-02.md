@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T21:19:48.585Z
+date: 2021-12-13T21:20:28.144Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -48,5 +48,7 @@ A number of factors affect the way water and sediment move from upland areas to 
 
 
 ## Stream orders
-Horton, Strahler, Shreve
+Horton, **Strahler**, Shreve
+
+Strahler: Starts at 1, when two 1's join together, it becomes 2. When two 2's come together, it becomes 3, etc.
 
