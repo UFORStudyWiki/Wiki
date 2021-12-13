@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T20:50:11.262Z
+date: 2021-12-13T20:55:19.524Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -23,3 +23,8 @@ dateCreated: 2021-12-13T20:34:53.430Z
 * The area that appears on the basis of topography to contribute all the water that passes through a given cross section of a stream
 * An area of land with a topograpic divide that collects rain and snow, discharging most of this water to a stream, river or other water body.
 * Synonyms: basin, drainage basin, catchment
+
+
+## Why is the Fraser river water dirtier than the Thompson river?
+Silt / sediment that is produced from the flow throughout mountains.
+
