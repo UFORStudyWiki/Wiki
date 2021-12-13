@@ -2,7 +2,7 @@
 title: Energy & Mass Balance
 description: 
 published: true
-date: 2021-12-13T23:59:29.282Z
+date: 2021-12-13T23:59:47.620Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T23:48:59.719Z
@@ -31,5 +31,5 @@ Most things are powered via the sun.
 Can travel via vaccuum.
 
 Can be simplified into shortwave and longwave radiation.
-* Shortwave radiation: Includes wavelengths in the near infrared, visible, and near ultraviolet sections
-* Longwave radiation: Mostly in the infrared, longwave radiation is related to the emission of heat.
+* Shortwave radiation: Includes wavelengths in the near infrared, visible, and near ultraviolet sections. Mainly the sun.
+* Longwave radiation: Mostly in the infrared, longwave radiation is related to the emission of heat. Heat.
