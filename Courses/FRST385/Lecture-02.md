@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T20:55:19.524Z
+date: 2021-12-13T20:59:22.869Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -28,3 +28,4 @@ dateCreated: 2021-12-13T20:34:53.430Z
 ## Why is the Fraser river water dirtier than the Thompson river?
 Silt / sediment that is produced from the flow throughout mountains.
 
+## Dillineating watersheds
