@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T21:14:43.989Z
+date: 2021-12-13T21:19:48.585Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -46,4 +46,7 @@ A number of factors affect the way water and sediment move from upland areas to 
 * Soil characteristics
 * Road network
 
+
+## Stream orders
+Horton, Strahler, Shreve
 
