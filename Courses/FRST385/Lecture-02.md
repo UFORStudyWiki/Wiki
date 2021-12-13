@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T21:23:10.502Z
+date: 2021-12-13T23:03:20.766Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -51,4 +51,14 @@ A number of factors affect the way water and sediment move from upland areas to 
 Horton, **Strahler**, Shreve
 
 Strahler: Starts at 1, when two 1's join together, it becomes 2. When two 2's come together, it becomes 3, etc.
+
+
+## Stream types:
+* Perennial: Flowing all the time regardless of season
+* Intermittent: Always full in the rainy season, always dry in the summer
+* Ephemeral: Goes dry when it doesn't rain
+
+* Influent: Losing water into the ground
+* Effluent: Gaining water from the ground
+
 
