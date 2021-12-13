@@ -2,7 +2,7 @@
 title: Lecture 01: Introduction
 description: 
 published: true
-date: 2021-12-13T19:32:17.091Z
+date: 2021-12-13T19:35:39.527Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T19:07:08.671Z
@@ -65,3 +65,7 @@ Chemical
  * Tools for industry
  
  Political
+ * World peace and stability
+ * Regional conflicts
+ * International conflicts
+ * Military weapon and target
