@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T23:03:20.766Z
+date: 2021-12-13T23:04:14.311Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -61,4 +61,7 @@ Strahler: Starts at 1, when two 1's join together, it becomes 2. When two 2's co
 * Influent: Losing water into the ground
 * Effluent: Gaining water from the ground
 
+* Bedrock controlled: Rocky
+* alluvial: more wide
 
+* Headwater / middle-order / lowland
