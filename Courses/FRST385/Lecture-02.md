@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T21:14:07.504Z
+date: 2021-12-13T21:14:43.989Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
@@ -30,10 +30,20 @@ Silt / sediment that is produced from the flow throughout mountains.
 
 ## Factors that influence watershed characteristics
 A number of factors affect the way water and sediment move from upland areas to the stream and from there to its terminus.
+
 * Climate
 * Topography
 * Geology
 * Vegetation
 * Human intervention
+
+### Basic parameters
+* Area (ha or km^2)
+* Shape, topography, slope
+* Elevation
+* Land use
+* Stream discharge
+* Soil characteristics
+* Road network
 
 
