@@ -2,7 +2,7 @@
 title: Lecture 02
 description: 
 published: true
-date: 2021-12-13T21:20:28.144Z
+date: 2021-12-13T21:23:10.502Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T20:34:53.430Z
