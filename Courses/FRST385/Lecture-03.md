@@ -2,7 +2,7 @@
 title: Energy & Mass Balance
 description: 
 published: true
-date: 2021-12-14T00:00:59.668Z
+date: 2021-12-14T00:25:44.633Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T23:48:59.719Z
@@ -37,3 +37,22 @@ Can be simplified into shortwave and longwave radiation.
 
 Solar Radiation:
 * Total solar irradiance (previously and erroneously called solar constant), is the average energy from the sun at the Earth's top of atmosphere, measured perpendicularly to the radiation.
+
+## Equations and components:
+### Energy Balance Equation
+
+Day: QE = S + D - aK + L⤓ - L⤒ ± Lh ± Sh ± Ch
+Night: QE = L⤓ - L⤒ ± Lh ± Sh ± Ch
+
+### Terms
+
+Direct solar radiation (S)
+Diffuse radiation (D)
+Incoming shortwave radiation / Insolation (K) =  S + D
+Albedo (a)
+Outgoing shortwave radiation (aK, K⤒)
+Net shortwave radiation (K*)
+Incoming Longwave Radiation (L⤓)
+Outgoing Longwave Radiation (L⤒)
+Net Radiant Energy (R)
+Latent Heat Flux (Lh)
