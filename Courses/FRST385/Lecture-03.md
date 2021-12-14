@@ -2,7 +2,7 @@
 title: Energy & Mass Balance
 description: 
 published: true
-date: 2021-12-14T00:38:28.056Z
+date: 2021-12-14T00:59:34.411Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T23:48:59.719Z
@@ -62,3 +62,10 @@ Latent Heat Flux (Lh)
 * Convection: Vertical mixing of fluids (S~h~)
 * Conduction: molecule to molecule contact (C~h~, S~h~)
 * Latent heat: energy absorbed or released during a phase change (L~h~), when water evaporates or condenses
+
+
+## Component particularities
+* Albedo for different land uses
+
+Latent Heat:
+* Energy consumed or released to change the heat (vibration state) of water or another substance.
