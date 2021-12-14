@@ -2,7 +2,7 @@
 title: Energy & Mass Balance
 description: 
 published: true
-date: 2021-12-14T01:02:12.278Z
+date: 2021-12-14T01:35:18.742Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T23:48:59.719Z
@@ -72,3 +72,7 @@ Latent Heat:
 
 Sensible heat:
 * Molecules from hotter object in direct contact with colder object will transfer heat via conduction.
+
+## Local energy balance
+* A positive + sign during a spring day means heat gains for the snowpack, which is either increasing its temperature or melting
+* A negative sign during a spring day means heat losses for the snowpack, which is either decreasing its temperature or refreezing
