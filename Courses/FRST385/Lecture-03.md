@@ -2,7 +2,7 @@
 title: Energy & Mass Balance
 description: 
 published: true
-date: 2021-12-14T00:59:34.411Z
+date: 2021-12-14T01:02:12.278Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T23:48:59.719Z
@@ -68,4 +68,7 @@ Latent Heat Flux (Lh)
 * Albedo for different land uses
 
 Latent Heat:
-* Energy consumed or released to change the heat (vibration state) of water or another substance.
+* Energy consumed or released to change the temperature (vibration state) of water or another substance.
+
+Sensible heat:
+* Molecules from hotter object in direct contact with colder object will transfer heat via conduction.
