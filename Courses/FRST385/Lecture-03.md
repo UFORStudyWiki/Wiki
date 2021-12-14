@@ -2,7 +2,7 @@
 title: Energy & Mass Balance
 description: 
 published: true
-date: 2021-12-14T00:37:38.729Z
+date: 2021-12-14T00:38:28.056Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T23:48:59.719Z
@@ -61,3 +61,4 @@ Latent Heat Flux (Lh)
 * Radiative: emitted by objects with temperature > 0 K (All objects emit long-wave radiation, once it reaches a certain temperature, it might start releasing short-wave radiation) (K, Incoming / outcoming L)
 * Convection: Vertical mixing of fluids (S~h~)
 * Conduction: molecule to molecule contact (C~h~, S~h~)
+* Latent heat: energy absorbed or released during a phase change (L~h~), when water evaporates or condenses
