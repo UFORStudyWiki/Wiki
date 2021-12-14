@@ -2,7 +2,7 @@
 title: Energy & Mass Balance
 description: 
 published: true
-date: 2021-12-14T00:25:44.633Z
+date: 2021-12-14T00:37:38.729Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T23:48:59.719Z
@@ -56,3 +56,8 @@ Incoming Longwave Radiation (L⤓)
 Outgoing Longwave Radiation (L⤒)
 Net Radiant Energy (R)
 Latent Heat Flux (Lh)
+
+### Forms of energy transfer
+* Radiative: emitted by objects with temperature > 0 K (All objects emit long-wave radiation, once it reaches a certain temperature, it might start releasing short-wave radiation) (K, Incoming / outcoming L)
+* Convection: Vertical mixing of fluids (S~h~)
+* Conduction: molecule to molecule contact (C~h~, S~h~)
