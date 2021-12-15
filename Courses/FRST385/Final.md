@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-15T21:44:13.643Z
+date: 2021-12-15T21:49:48.070Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -102,5 +102,9 @@ $A_S = QF/P$
 72. Explain how flood frequency analysis is used in terms of risk-based design.
 73. Describe what occurs in terms of flood risk when the mean and/or variability of a peakflow frequency d curve are shifted.
 74. Describe how forest harvesting could affect the mean and variability of a peakflow distribution curve
+
+75. Define that a scientific paradigm is and its relation to the prevalent state of knowledge in the topic of forests and floods.
+76. Explain how chronological pairing works, identify at least two of its flaws, and describe the conclusion hydrologists have got from it with regards to the effect of forests on floods.
+77. Explain the stochastic logic behind frequency pairing and the conclusion multiple studies have reached with its application with regards to the effect of forests on floods.
 
 
