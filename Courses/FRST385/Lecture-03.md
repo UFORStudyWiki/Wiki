@@ -1,8 +1,8 @@
 ---
-title: Energy & Mass Balance
+title: Lecture 03: Energy & Mass Balance
 description: 
 published: true
-date: 2021-12-14T01:35:28.429Z
+date: 2021-12-15T03:00:55.288Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T23:48:59.719Z
