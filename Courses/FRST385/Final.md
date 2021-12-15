@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-15T21:34:51.721Z
+date: 2021-12-15T21:37:49.804Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -55,3 +55,28 @@ $A_S = QF/P$
 32. Illustrate how the water table shifts annually in a snow-dominated and rain-dominated regime.
 33. Explain one method of measuring infiltration rates.
 34. Use the Horton equation to derive the decay constant k
+
+35. Define groundwater and explain its role in the hydrologic cycle.
+36. Describe at least three reasons why the study of groundwater is important.
+37. Describe the types of aquifers and label them on a diagram.
+38. Draw a water table line and/or potentiometric surface using hydraulic head from a well and/or piezometer.
+39. List and explain at least three factors that can influence groundwater levels.
+40. Use equipotential lines to draw a flow net and illustrate groundwater flow path.
+
+41. Define evapotranspiration and explain its role in the hydrologic cycle.
+42. Describe the three components of evapotranspiration.
+43. Explain the difference between actual and potential evapotranspiration.
+44. List three factors that influence evapotranspiration and explain how they would be affected by the removal of vegetation.
+45. Explain how interception differs between tree species and precipitation type.
+46. Provide an example of a direct and indirect method of measuring evapotranspiration.
+
+47. Describe the different types of runoff and where / how they occur.
+48. Differentiate between saturation-excess overland flow and Hortonian overland flow.
+49. Draw an annual hydrograph for a rain, rain-on-snow and snow-dominated regime.
+50. Explain the variable source area concept and the runoff mechanisms it is associated with.
+51. Label the components of a storm hydrograph.
+52. Define quickflow and baseflow and describe how they are separated on hydrograph.
+53. Explain the difference between “old” (pre-event) and “new” (event) water, and which generally predominates in a peakflow event.
+
+
+
