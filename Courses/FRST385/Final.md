@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-15T21:37:49.804Z
+date: 2021-12-15T21:39:16.736Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -77,6 +77,12 @@ $A_S = QF/P$
 51. Label the components of a storm hydrograph.
 52. Define quickflow and baseflow and describe how they are separated on hydrograph.
 53. Explain the difference between “old” (pre-event) and “new” (event) water, and which generally predominates in a peakflow event.
+
+54. List and describe three basin characteristics that can influence streamflow.
+55. Match a set of hydrographs with various land uses.
+56. Label on a map of British Columbia where the three hydroclimate regimes are found.
+57. List at least three methods of measuring streamflow, explain how they are used and which stream type they are best suited for.
+58. Explain why Manning’s equation is sometimes, describe its components and where on a stream cross-section they are measured.
 
 
 
