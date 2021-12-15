@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-15T21:39:16.736Z
+date: 2021-12-15T21:44:13.643Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -84,5 +84,23 @@ $A_S = QF/P$
 57. List at least three methods of measuring streamflow, explain how they are used and which stream type they are best suited for.
 58. Explain why Manning’s equation is sometimes, describe its components and where on a stream cross-section they are measured.
 
+
+59. Explain what happens to the density of a snowpack over the course of a snow season.
+60. Discuss the phases of snowmelt and explain what it means for snow to be isothermal.
+61. Compare the factors that influence snow accumulation in an open site vs. a forested site, and between different forest types.
+62. Illustrate the direction (positive/negative) and relative magnitude of local energy exchanges on the snowpack under various weather conditions.
+63. Compare the factors that influence snow ablation in an open site vs. a forested site, and between different forest types.
+64. Explain which components of the local energy balance would be most adversely affected by forest harvesting.
+65. Describe the radiative paradox and where it typically occurs.
+66. Calculate SWE from field snow survey data.
+67. Calculate and compare ablation rates for an open and forested site.
+
+68. Define return period and how it is related to exceedance probability.
+69. Describe how the mean, variance and skewness affect the shape of a probability distribution.
+70. List the two main assumptions of flood frequency analysis.
+71. Explain the difference between a graphical and analytical flood frequency analysis.
+72. Explain how flood frequency analysis is used in terms of risk-based design.
+73. Describe what occurs in terms of flood risk when the mean and/or variability of a peakflow frequency d curve are shifted.
+74. Describe how forest harvesting could affect the mean and variability of a peakflow distribution curve
 
 
