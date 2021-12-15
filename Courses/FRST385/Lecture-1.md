@@ -2,7 +2,7 @@
 title: Lecture 01: Introduction
 description: 
 published: true
-date: 2021-12-13T19:43:47.889Z
+date: 2021-12-15T03:05:24.544Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T19:07:08.671Z
