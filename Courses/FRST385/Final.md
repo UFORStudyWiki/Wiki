@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-15T22:09:53.506Z
+date: 2021-12-15T22:17:00.668Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -88,7 +88,8 @@ $A_S = QF/P$
 
 
 59. Explain what happens to the density of a snowpack over the course of a snow season.
-60. Discuss the phases of snowmelt and explain what it means for snow to be isothermal.
+60. **Discuss the phases of snowmelt and explain what it means for snow to be isothermal.**
+Temperature constant throughout the snowpack.
 61. Compare the factors that influence snow accumulation in an open site vs. a forested site, and between different forest types.
 62. Illustrate the direction (positive/negative) and relative magnitude of local energy exchanges on the snowpack under various weather conditions.
 63. Compare the factors that influence snow ablation in an open site vs. a forested site, and between different forest types.
