@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-15T21:32:57.830Z
+date: 2021-12-15T21:34:51.721Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -46,3 +46,12 @@ $A_S = QF/P$
 24. Describe the different precipitation measurement types and their associated advantages and disadvantages.
 25. Explain at least three errors associated with ground-based precipitation measurements.
 26. Understand the types of precipitation analysis and the importance of their application.
+
+27. Describe infiltration and explain the mechanisms responsible for water movement in the soil.
+28. List three factors that can influence infiltration rates.
+29. Describe how surface ponding occurs and explain how it can affect infiltration rates.
+30. Explain each component of Darcy’s law and label where each would be found on a permeameter.
+31. Calculate groundwater flow using Darcy’s law.
+32. Illustrate how the water table shifts annually in a snow-dominated and rain-dominated regime.
+33. Explain one method of measuring infiltration rates.
+34. Use the Horton equation to derive the decay constant k
