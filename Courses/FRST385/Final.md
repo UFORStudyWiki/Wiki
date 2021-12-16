@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-15T22:17:18.486Z
+date: 2021-12-16T01:07:49.073Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -110,4 +110,17 @@ WHEN ALL LAYERS OF THE SNOWPACK ARE AT THE SAME TEMPERATURE, TYPICALLY AT THE FR
 76. Explain how chronological pairing works, identify at least two of its flaws, and describe the conclusion hydrologists have got from it with regards to the effect of forests on floods.
 77. Explain the stochastic logic behind frequency pairing and the conclusion multiple studies have reached with its application with regards to the effect of forests on floods.
 
+# About the exam
+Questions are very similar to the lab. 
+
+# Random information
+Floods are very stochastic
+
+Analyzing graphs: Weather extremes, precipitation extremes, temperature extremes. Can only be examined under frequency analysis. 
+
+We've spent 4/5 lectures talking about this: Younes method. 
+
+Pay attention to lecture 14 / 15.
+
+Focus on problems conquored on labs. Understand the equations, parameters, etc. how everything was applied and how. 
 
