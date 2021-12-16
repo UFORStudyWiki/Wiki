@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T01:54:19.390Z
+date: 2021-12-16T01:55:27.789Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -173,6 +173,7 @@ Understand all the equations for lab 5.
 
 Two things inside:
 * Ground water table elevation
+* zero flux plane *displays upward flux to evapotranspiration demands.
 
 We need to invision a tract of land, fixed at the same place. 
 
