@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T01:21:26.486Z
+date: 2021-12-16T01:22:00.030Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -156,6 +156,7 @@ What happens when we take out trees by helicopter so that we don't disturb the s
 Wetter soils lead to synchronization.
 
 **Synchronization of water to the outlet.**
+* Could also be refered to as the efficiency of water being delivered to the outlet.
 
 
 
