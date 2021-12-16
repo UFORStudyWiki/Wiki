@@ -2,7 +2,7 @@
 title: Lecture 03: Energy & Mass Balance
 description: 
 published: true
-date: 2021-12-15T03:00:55.288Z
+date: 2021-12-16T23:32:51.464Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T23:48:59.719Z
@@ -76,3 +76,8 @@ Sensible heat:
 ## Local energy balance
 * A positive + sign during a spring day means heat gains for the snowpack, which is either increasing its temperature or melting.
 * A negative sign during a spring day means heat losses for the snowpack, which is either decreasing its temperature or refreezing.
+
+
+
+![localenergybalancesoil.png](/ufor385/localenergybalancesoil.png)
+![localenergybalancesnow.png](/ufor385/localenergybalancesnow.png)
