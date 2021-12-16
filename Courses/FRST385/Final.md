@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T01:38:12.765Z
+date: 2021-12-16T01:40:26.600Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -171,4 +171,8 @@ Understand all the equations for lab 5.
 
 # Zero flux plane
 
+Two things inside:
+* Ground water table elevation
+
+We need to invision a tract of land, fixed at the same place. 
 
