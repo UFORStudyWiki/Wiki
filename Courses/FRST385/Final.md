@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T02:07:12.978Z
+date: 2021-12-16T02:07:53.169Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -141,8 +141,8 @@ Skewness
 Floods are not normally distributed, they are skewed. Some are skewed left, some are skewed right. Papers are restricted to the first couple of variables to make things simpler. Logging affects the third parameter as well. 
 
 On frequency curves:
-* When the mean changes, curve shifts up.
-* When the variability changes, the curve starts tilting up.
+* When the mean changes, curve shifts up / down.
+* When the variability changes, the curve starts tilting up / down.
 
 Anything that desynchronizes, decreases variability.
 Anything that synchronizes, increases variability.
