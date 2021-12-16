@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T02:19:26.199Z
+date: 2021-12-16T02:27:27.050Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -200,7 +200,8 @@ Labs 8 & 9 assume that flood frequency does not change over time (is stationary)
 
 Non-stationarity is at the core of causatal inference.
 
-
+# Snow environments
+Least important factor of peak is soil wetness.
 
 # Otherwise
 
