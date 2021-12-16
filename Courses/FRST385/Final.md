@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T01:28:38.273Z
+date: 2021-12-16T01:34:55.726Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -162,5 +162,5 @@ Wetter soils lead to synchronization.
 * Could also be refered to as the efficiency of water being delivered to the outlet.
 
 
-
+If we do not invoke frequency, our investigation is non-causal. 
 
