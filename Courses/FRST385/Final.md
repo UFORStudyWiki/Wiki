@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T01:34:55.726Z
+date: 2021-12-16T01:38:12.765Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -163,4 +163,12 @@ Wetter soils lead to synchronization.
 
 
 If we do not invoke frequency, our investigation is non-causal. 
+
+
+
+Understand all the equations for lab 5.
+
+
+# Zero flux plane
+
 
