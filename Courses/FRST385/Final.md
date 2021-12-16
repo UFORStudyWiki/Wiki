@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T01:13:02.847Z
+date: 2021-12-16T01:14:28.404Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -136,6 +136,9 @@ Probabilistic framework is of high importance.
 
 We need to step back and ask: "how did harvesting affect variability, form of distribution, mean, skewness: extent to which results differs from the curve".
 
+Skewness
+
+Floods are not normally distributed, they are skewed. Some are skewed left, some are skewed right. Papers are restricted to the first couple of variables to make things simpler.
 
 
 
