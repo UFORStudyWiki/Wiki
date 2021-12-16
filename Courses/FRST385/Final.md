@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T01:25:26.368Z
+date: 2021-12-16T01:27:18.636Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -150,6 +150,8 @@ Anything that synchronizes, increases variability.
 In most cases, logging increases variability.
 
 What happens when we build roads?
+* Compacted soils, suppress all storage, more infiltration-excess runoff. 
+* Connecting streams via ditches
 
 What happens when we take out trees by helicopter so that we don't disturb the soil?
 * Less evapotranspiration, increased soil moisture, less storage, more saturation-excess runoff. 
