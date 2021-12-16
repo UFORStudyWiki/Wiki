@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T02:07:02.839Z
+date: 2021-12-16T02:07:12.978Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -186,6 +186,6 @@ We need to invision a tract of land, fixed at the same place.
 4. Large number of bogs / flood plains / other storage areas for excess runoff.
 5. Majestic (before logging) forest.
 
-Causes our curves to be mild.
+Causes our curves to be mild & concave.
 
 Logging not on final
