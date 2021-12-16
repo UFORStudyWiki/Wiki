@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T01:20:43.844Z
+date: 2021-12-16T01:21:26.486Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -152,6 +152,10 @@ In most cases, logging increases variability.
 What happens when we build roads?
 
 What happens when we take out trees by helicopter so that we don't disturb the soil?
+
+Wetter soils lead to synchronization.
+
+**Synchronization of water to the outlet.**
 
 
 
