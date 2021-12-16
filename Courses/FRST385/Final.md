@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T02:18:44.025Z
+date: 2021-12-16T02:19:26.199Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -197,6 +197,8 @@ Mean, mean variability, skewness. If these parameters are not chaning, frequency
 If the parameters are disturbed via climate, land use, land cover, etc., the frequency will change.
 
 Labs 8 & 9 assume that flood frequency does not change over time (is stationary). 
+
+Non-stationarity is at the core of causatal inference.
 
 
 
