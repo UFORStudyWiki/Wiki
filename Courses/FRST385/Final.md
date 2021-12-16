@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T02:07:53.169Z
+date: 2021-12-16T02:17:46.696Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -185,6 +185,20 @@ We need to invision a tract of land, fixed at the same place.
 3. Mild Climate
 4. Large number of bogs / flood plains / other storage areas for excess runoff.
 5. Majestic (before logging) forest.
+
+
+# statianarity assumption
+What breaks the assumption? 
+
+The flood frequency distribution is a frequency distribution.
+
+Mean, mean variability, skewness. If these parameters are not chaning, frequency will remain stationary.
+
+If the parameters are disturbed via climate, land use, land cover, etc., the frequency will change.
+
+
+
+# Otherwise
 
 Causes our curves to be mild & concave.
 
