@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T01:07:49.073Z
+date: 2021-12-16T01:10:31.380Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -123,4 +123,13 @@ We've spent 4/5 lectures talking about this: Younes method.
 Pay attention to lecture 14 / 15.
 
 Focus on problems conquored on labs. Understand the equations, parameters, etc. how everything was applied and how. 
+
+Two categories of problems. Majority are problems seen on labs. Most quantitative, the occasional conceptual sub-question.
+
+9 questions on the final.
+
+8 are quantitative
+1 is conceptual
+
+Covers forest & floods, environmental controls, investigation of sciences.
 
