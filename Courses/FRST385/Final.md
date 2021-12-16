@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T01:10:31.380Z
+date: 2021-12-16T01:11:47.520Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -132,4 +132,10 @@ Two categories of problems. Majority are problems seen on labs. Most quantitativ
 1 is conceptual
 
 Covers forest & floods, environmental controls, investigation of sciences.
+
+Probabilistic framework is of high importance.
+
+We need to step back and ask: "how did harvesting affect variability, form of distribution, mean, skewness: extent to which results differs from the curve".
+
+
 
