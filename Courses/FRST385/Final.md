@@ -2,7 +2,7 @@
 title: Final Review
 description: 
 published: true
-date: 2021-12-16T19:57:32.574Z
+date: 2021-12-17T19:00:07.965Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T21:19:08.432Z
@@ -88,12 +88,11 @@ We need to invision a tract of land, fixed at the same place.
 
 
 # We are blessed in BC by the following natural stuff:
-1. 
-2. Topography (lots of snow)
-3. Mild Climate
-4. Large number of bogs / flood plains / other storage areas for excess runoff.
-5. Majestic (before logging) forest.
-
+1. Snow dominated.
+2. Mountainous regions.
+3. Distribution of aspects de-synchronizing melt.
+4. Forest cover shading snow.
+5. Natural bodies of water such as lakes and swamps.
 
 # statianarity assumption
 What breaks the assumption? 
