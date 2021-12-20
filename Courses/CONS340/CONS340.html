@@ -1,0 +1,143 @@
+<!--
+title: Lecture 18- Surfaces
+description: 
+published: true
+date: 2021-12-20T05:28:28.492Z
+tags: 
+editor: ckeditor
+dateCreated: 2021-12-20T05:28:28.492Z
+-->
+
+<h1>Tin - Triangulated irregular Network</h1>
+<ul>
+  <li>The world represented as a network as linked triangles drawn irregularly spaces points with x,y,z values</li>
+  <li>Although tin is a vector format, it is a specialized vector format because it does not represent individual features</li>
+  <li>Tin represents a surface</li>
+  <li>Efficient way to store and analyze surfaces</li>
+  <li>When you zoom in on the surface you will note that it is made of triangles</li>
+</ul>
+<h1>Tin creation</h1>
+<h2>mass points</h2>
+<ul>
+  <li>Lidar points, record different returns at different levels close to the surface to make a mass point</li>
+  <li>Replaces polygons<ul>
+      <li>adds polygon</li>
+    </ul>
+  </li>
+  <li>Erase polygons<ul>
+      <li>erases polygons</li>
+    </ul>
+  </li>
+  <li>Clip<ul>
+      <li>Can clip polygons as well</li>
+    </ul>
+  </li>
+</ul>
+<h2>breakline Enforcement</h2>
+<ul>
+  <li>Creates a breakline to help serpreate and visual information on a surface</li>
+</ul>
+<h2>interpolation and contouring</h2>
+<ul>
+  <li>can interpolate to a raster or a TIN<ul>
+      <li>Can go back and forth between raster or tin</li>
+    </ul>
+  </li>
+</ul>
+<p>Generate surfaces from point measurement<br><strong>- Natural neighbors</strong><br><strong>- Minimum curvature spline</strong><br><strong>- Spline and barriers</strong><br><strong>- TopotoRaster</strong><br><strong>- Kriging</strong></p>
+<ul>
+  <li>Polynomial trend Surface</li>
+  <li>Inverse distance weighted (IDW)</li>
+</ul>
+<p>Create contours from surfaces</p>
+<ul>
+  <li>Batch GP tools</li>
+  <li>Interactive contours</li>
+</ul>
+<h1>Choosing an interpolation method</h1>
+<p>You know nothing about your data...</p>
+<ul>
+  <li>Use <strong>NAtural Neighbors</strong> its the most conservative, Assumes all highs and lows are sampled, will not create artifacts<ul>
+      <li>Will not create a high higher than the max that you set<br>Your input data is contours</li>
+    </ul>
+  </li>
+  <li>Use TopoToRaster. It is optimized for contour input. If not creating a DEM, turn off the drainage enforcement option<br>You know the highs and lows are not sampled...</li>
+  <li>Use Spline. Be careful of point that are near in space but very different in values creating unnatural artifacts<br>Your surface is not continuous</li>
+  <li>Use Spline with Barriers if you know there are faults or other discontinuities in the surface</li>
+</ul>
+<h2>Natural Neighbors</h2>
+<p><strong>- Based on Voronoi tessellation</strong><br>- Strengths</p>
+<ul>
+  <li>Conservatievely smooth</li>
+  <li>Interpolated Z range from within a range of data</li>
+  <li>Smart Selection of samples</li>
+  <li>Supported input data types<ul>
+      <li>Points (2D - with attributes)</li>
+      <li>Note: Also supported by TIN to raster<br><strong>Green on a Natural Neighbor will be the "weight" and will determine how much significant it is to the elevation value to the polygon</strong></li>
+    </ul>
+  </li>
+</ul>
+<h2>Topo To Raster</h2>
+<ul>
+  <li>Strengths<ul>
+      <li>Creates raster from contours</li>
+      <li>Can add additional information and input data</li>
+    </ul>
+  </li>
+</ul>
+<h2>spline</h2>
+<ul>
+  <li>Minimum curvature spline that honors barriers, faults, etc</li>
+</ul>
+<h2>Kriging</h2>
+<ul>
+  <li>Strengths<br>- Probabilistic<br>- Well behaved with sparse data<br>- Great at "guessing data"</li>
+</ul>
+<h1>what is linear referencing</h1>
+<ul>
+  <li>Method of storing geographic features by using relative positions along with a measured line feature<br>- Essentially creates a route for you by analyzing different lines in between (essentially using the google line to travel)</li>
+</ul>
+<h2>features using a linear system</h2>
+<ul>
+  <li>Feature's location determined using a linear system of a measure values, instead of using x,y coordinates</li>
+</ul>
+<h2>Dynamic segmentation</h2>
+<ul>
+  <li>Anything linear will use this type of information storage<br>- Width Information is also stored</li>
+  <li>Enables the association of multisets of attributes to portions of linear features about segmenting the underlying line each time attribute value changes</li>
+</ul>
+<h3>Features containing one to many relationships</h3>
+<ul>
+  <li>Two or more pieces of information associated with the same location on a line</li>
+  <li>can see speed, width, gradients, habitats on a river, and data will be stored for each on the same line (kind of like additionally attributes)</li>
+</ul>
+<h3>features containing frequently segmented data</h3>
+<ul>
+  <li>Some types of features have attributes that change frequently</li>
+</ul>
+<h2>routes</h2>
+<ul>
+  <li>Linear features - (in a polyline feature class)<br>Must have an <strong>identifier &amp; measurement system</strong></li>
+  <li>Store in Geodatabase, Shapefile, or Coverage.<br>Routes can model</li>
+  <li>Looping, Branching, 180 degree turns</li>
+</ul>
+<h3>event table</h3>
+<ul>
+  <li>Routes locations thematically stored in tables are called "route events: or simply "events"</li>
+</ul>
+<h4>2 types</h4>
+<ul>
+  <li>Point event table<ul>
+      <li>Accident, samples sites,</li>
+      <li>Requires 2 fields = Route location and Attributes</li>
+      <li>The measure is the event's location on the line</li>
+    </ul>
+  </li>
+  <li>Line Event Table<ul>
+      <li>Store regions on a line</li>
+    </ul>
+  </li>
+</ul>
+<p>EN</p>
+<p>/Lecture 18 surfaces</p>
+<p>Markdown</p>
