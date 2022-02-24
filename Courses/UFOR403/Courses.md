@@ -2,7 +2,7 @@
 title: Lecture 3: What do we restore
 description: 
 published: true
-date: 2022-02-24T02:55:52.538Z
+date: 2022-02-24T02:59:52.745Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-24T02:47:37.406Z
@@ -40,3 +40,9 @@ dateCreated: 2022-02-24T02:47:37.406Z
 	- Reduce pesticide and rodenticide use in cities
 	- more soil space
 	- effective waste management - prevent algal blooms
+
+# Ecological Function
+- hydrological function
+- carbon and nutrient cylcing
+- energy flows, trophic structure
+# Ecosystem Services
