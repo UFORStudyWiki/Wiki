@@ -2,7 +2,7 @@
 title: Lecture 3: What do we restore
 description: 
 published: true
-date: 2022-02-24T02:59:52.745Z
+date: 2022-02-24T03:13:44.835Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-24T02:47:37.406Z
