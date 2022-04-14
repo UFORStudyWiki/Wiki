@@ -2,9 +2,9 @@
 title: Pruning
 description: 
 published: true
-date: 2021-11-07T21:02:33.993Z
+date: 2021-11-23T20:11:24.486Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2021-10-29T19:19:03.628Z
 ---
 

@@ -2,9 +2,9 @@
 title: Lecture 02: Watershed & Stream Characteristics
 description: 
 published: true
-date: 2021-12-13T23:33:21.477Z
+date: 2021-12-13T23:33:25.143Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2021-12-13T20:34:53.430Z
 ---
 
